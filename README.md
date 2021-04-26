@@ -3,7 +3,7 @@
 ![eumukk](https://github.com/codekoch/emukk/blob/main/emukk.jpg)
 ### Realisiert mit Arduinos 
 # MidiSyncomat
-![eumukk](https://github.com/codekoch/emukk/blob/main/MidiSyncomat.jpg)
+![eumukk](https://github.com/codekoch/emukk/blob/main/MidiSyncomat.jpg | width=50)
 - Verarbeitet MidiClock Signale in KorgSync- und JamManSync-Signale
 - Code: https://github.com/codekoch/emukk/blob/main/MidiSyncomat.ino
 # MidiAudioSwitch
@@ -22,4 +22,4 @@
 ![eumukk](https://github.com/codekoch/emukk/blob/main/MidiController.jpg)
 -  Midifußcontroller für 32 Midisignale
 - Code: https://github.com/codekoch/emukk/blob/main/Midimat2021_Clock.ino
-- Code: https://github.com/codekoch/emukk/blob/main/Midimat2021_Controller.in
+- Code: https://github.com/codekoch/emukk/blob/main/Midimat2021_Controller.ino
