@@ -16,6 +16,7 @@
 - Code: https://github.com/codekoch/emukk/blob/main/MidiAudioSwitch.ino
 # MidiFußpedal
 <img src="https://github.com/codekoch/emukk/blob/main/MidiFusspedal1.jpg" width="50%" ></img>
+<img src="https://github.com/codekoch/emukk/blob/main/Midifusspedal2.jpg" width="50%" ></img>
 - Orgelfusspedal für verschiedene umschaltbare Midisignale  
 - Code: https://github.com/codekoch/emukk/blob/main/MidiFusspedal.ino
 # MidiFußcontroller
