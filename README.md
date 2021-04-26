@@ -4,7 +4,7 @@
 ### Realisiert mit Arduinos 
 # MidiSyncomat
 ![eumukk](https://github.com/codekoch/emukk/blob/main/MidiSyncomat.jpg)
-<img src="https://github.com/codekoch/emukk/blob/main/MidiSyncomat.jpg" width="50" >
+<img src="https://github.com/codekoch/emukk/blob/main/MidiSyncomat.jpg" width="50%" >
 - Verarbeitet MidiClock Signale in KorgSync- und JamManSync-Signale
 - Code: https://github.com/codekoch/emukk/blob/main/MidiSyncomat.ino
 # MidiAudioSwitch
