@@ -19,6 +19,7 @@
 - Orgelfusspedal für verschiedene umschaltbare Midisignale  
 - Code: https://github.com/codekoch/emukk/blob/main/MidiFusspedal.ino
 # MidiFußcontroller
+<img src="https://github.com/codekoch/emukk/blob/main/MidiControllerOffen.jpg" width="50%" ></img>
 <img src="https://github.com/codekoch/emukk/blob/main/MidiController.jpg" width="50%" ></img>
 -  Midifußcontroller für 32 Midisignale und optischer Tempoanzeige 
 - Code: https://github.com/codekoch/emukk/blob/main/Midimat2021_Clock.ino
