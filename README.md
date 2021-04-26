@@ -6,14 +6,14 @@
 <img src="https://github.com/codekoch/emukk/blob/main/MidiSyncomat1.jpg" width="50%" ></img>
 - Verarbeitet MidiClock Signale in KorgSync- und JamManSync-Signale
 - Code: https://github.com/codekoch/emukk/blob/main/MidiSyncomat.ino
-# MidiAudioSwitch
-<img src="https://github.com/codekoch/emukk/blob/main/MidiAudioSwitch.jpg" width="50%"></img>
-- Schaltet zwischen Midi und Audiosignalen
-- Code: https://github.com/codekoch/emukk/blob/main/MidiAudioSwitch.ino
 # MidiLooper
 <img src="https://github.com/codekoch/emukk/blob/main/MidiLooper.jpg" width="50%" ></img>
 - 3 Spur MidiLooper 
 - Code: https://github.com/codekoch/emukk/blob/main/MidiLooper.ino
+# MidiAudioSwitch
+<img src="https://github.com/codekoch/emukk/blob/main/MidiAudioSwitch.jpg" width="50%"></img>
+- Schaltet zwischen Midi und Audiosignalen
+- Code: https://github.com/codekoch/emukk/blob/main/MidiAudioSwitch.ino
 # MidiFußpedal
 <img src="https://github.com/codekoch/emukk/blob/main/MidiFusspedal1.jpg" width="50%" ></img>
 - Orgelfusspedal für verschiedene umschaltbare Midisignale  
