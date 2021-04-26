@@ -1,5 +1,6 @@
 # E.MU.K.K.
-ein mann musik kreativ kirmes - realisiert mit arduinos 
+## ein mann musik kreativ kirmes
+### Realisiert mit Arduinos 
 ![eumukk](https://github.com/codekoch/emukk/blob/main/emukk.jpg)
 # MidiSyncomat
 ![eumukk](https://github.com/codekoch/emukk/blob/main/MidiSyncomat.jpg)
