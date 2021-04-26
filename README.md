@@ -1,8 +1,9 @@
-![eumukk](https://github.com/codekoch/emukk/blob/main/emukk.jpg)
 # E.MU.K.K.
 ein mann musik kreativ kirmes - realisiert mit arduinos 
+![eumukk](https://github.com/codekoch/emukk/blob/main/emukk.jpg)
 # MidiSyncomat
 ![eumukk](https://github.com/codekoch/emukk/blob/main/MidiSyncomat.jpg)
+*Verarbeitet MidiClock Signale in KorgSync- und JamManSync-Signale
 # MidiSwitch
 ![eumukk](https://github.com/codekoch/emukk/blob/main/MidiSwitch.jpg)
 # MidiLooper
