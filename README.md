@@ -5,6 +5,7 @@
 # MidiSyncomat
 ![eumukk](https://github.com/codekoch/emukk/blob/main/MidiSyncomat.jpg)
 - Verarbeitet MidiClock Signale in KorgSync- und JamManSync-Signale
+- Code: https://github.com/codekoch/emukk/blob/main/MidiSyncomat.ino
 # MidiAudioSwitch
 ![eumukk](https://github.com/codekoch/emukk/blob/main/MidiAudioSwitch.jpg)
 - Schaltet zwischen Midi und Audiosignalen
