@@ -20,6 +20,6 @@
 - Code: https://github.com/codekoch/emukk/blob/main/MidiFusspedal.ino
 # MidiFußcontroller
 <img src="https://github.com/codekoch/emukk/blob/main/MidiController.jpg" width="50%" ></img>
--  Midifußcontroller für 32 Midisignale
+-  Midifußcontroller für 32 Midisignale und optischer Tempoanzeige 
 - Code: https://github.com/codekoch/emukk/blob/main/Midimat2021_Clock.ino
 - Code: https://github.com/codekoch/emukk/blob/main/Midimat2021_Controller.ino
