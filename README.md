@@ -3,24 +3,23 @@
 ![eumukk](https://github.com/codekoch/emukk/blob/main/emukk.jpg)
 ### Realisiert mit Arduinos 
 # MidiSyncomat
-![eumukk](https://github.com/codekoch/emukk/blob/main/MidiSyncomat.jpg)
 <img src="https://github.com/codekoch/emukk/blob/main/MidiSyncomat.jpg" width="50%" >
 - Verarbeitet MidiClock Signale in KorgSync- und JamManSync-Signale
 - Code: https://github.com/codekoch/emukk/blob/main/MidiSyncomat.ino
 # MidiAudioSwitch
-![eumukk](https://github.com/codekoch/emukk/blob/main/MidiAudioSwitch.jpg)
+<img src="https://github.com/codekoch/emukk/blob/main/MidiAudioSwitch.jpg" width="50%" >
 - Schaltet zwischen Midi und Audiosignalen
 - Code: https://github.com/codekoch/emukk/blob/main/MidiAudioSwitch.ino
 # MidiLooper
-![eumukk](https://github.com/codekoch/emukk/blob/main/MidiLooper.jpg)
+<img src="https://github.com/codekoch/emukk/blob/main/MidiLooper.jpg" width="50%" >
 - 3 Spur MidiLooper 
 - Code: https://github.com/codekoch/emukk/blob/main/MidiLooper.ino
 # MidiFußpedal
-![eumukk](https://github.com/codekoch/emukk/blob/main/MidiFusspedal1.jpg)
+<img src="https://github.com/codekoch/emukk/blob/main/MidiFusspedal1.jpg" width="50%" >
 - Orgelfusspedal für verschiedene umschaltbare Midisignale  
 - Code: https://github.com/codekoch/emukk/blob/main/MidiFusspedal.ino
 # MidiFußcontroller
-![eumukk](https://github.com/codekoch/emukk/blob/main/MidiController.jpg)
+<img src="https://github.com/codekoch/emukk/blob/main/MidiController.jpg" width="50%" >
 -  Midifußcontroller für 32 Midisignale
 - Code: https://github.com/codekoch/emukk/blob/main/Midimat2021_Clock.ino
 - Code: https://github.com/codekoch/emukk/blob/main/Midimat2021_Controller.ino
