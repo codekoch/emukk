@@ -13,7 +13,6 @@
 - 3 Spur MidiLooper 
 # MidiFußpedal
 ![eumukk](https://github.com/codekoch/emukk/blob/main/MidiFusspedal1.jpg)
-![eumukk](https://github.com/codekoch/emukk/blob/main/MidiFusspedal3.jpg)
 - Orgelfusspedal für verschiedene umschaltbare Midisignale  
 # MidiFußcontroller
 ![eumukk](https://github.com/codekoch/emukk/blob/main/MidiController.jpg)
