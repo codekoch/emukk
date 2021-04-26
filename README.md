@@ -1,7 +1,7 @@
 # E.MU.K.K.
 ## ein mann musik kreativ kirmes
 ![eumukk](https://github.com/codekoch/emukk/blob/main/emukk.jpg)
-### - Realisiert mit Arduinos 
+### Realisiert mit Arduinos und ganz, ganz vielen Kabeln ;-) 
 # MidiSyncomat
 <img src="https://github.com/codekoch/emukk/blob/main/MidiSyncomat.jpg" width="50%" ></img>
 - Verarbeitet MidiClock Signale in KorgSync- und JamManSync-Signale
