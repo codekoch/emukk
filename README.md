@@ -2,9 +2,11 @@
 ## ein mann musik kreativ kirmes
 ![eumukk](https://github.com/codekoch/emukk/blob/main/emukk.jpg)
 ### Realisiert mit Arduinos und ganz, ganz vielen Kabeln ;-) 
-## Midi-IN und -OUT mit dem Arduino
+## MIDI-IN und -OUT mit dem Arduino
 <img src="https://github.com/codekoch/emukk/blob/main/MidiIN.jpg" width="50%" ></img>
+MIDI-IN
 <img src="https://github.com/codekoch/emukk/blob/main/MidiOUT.jpg" width="50%" ></img>
+MIDI-OUT
 Mehr Informationen auf https://www.instructables.com/Send-and-Receive-MIDI-with-Arduino/
 # MidiSyncomat
 <img src="https://github.com/codekoch/emukk/blob/main/MidiSyncomat1.jpg" width="50%" ></img>
