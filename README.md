@@ -5,6 +5,7 @@
 ## MIDI-IN und -OUT mit dem Arduino
 <img src="https://github.com/codekoch/emukk/blob/main/MIDI-OUT.jpg" width="50%" >MIDI-OUT</img>
 <img src="https://github.com/codekoch/emukk/blob/main/MIDI-IN.jpg" width="50%" >MIDI-IN</img>
+
 Bilder von https://www.instructables.com/Send-and-Receive-MIDI-with-Arduino/
 # MidiSyncomat
 <img src="https://github.com/codekoch/emukk/blob/main/MidiSyncomat1.jpg" width="50%" ></img>
