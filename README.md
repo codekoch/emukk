@@ -3,11 +3,10 @@
 ![eumukk](https://github.com/codekoch/emukk/blob/main/emukk.jpg)
 ### Realisiert mit Arduinos und ganz, ganz vielen Kabeln ;-) 
 ## MIDI-IN und -OUT mit dem Arduino
-<img src="https://github.com/codekoch/emukk/blob/main/MIDIIN.jpg" width="50%" ></img>
+<img src="https://github.com/codekoch/emukk/blob/main/MIDI-OUT.jpg" width="50%" >MIDI-OUT</img>
 MIDI-IN
-<img src="https://github.com/codekoch/emukk/blob/main/MIDIOUT.jpg" width="50%" ></img>
-MIDI-OUT
-Mehr Informationen auf https://www.instructables.com/Send-and-Receive-MIDI-with-Arduino/
+<img src="https://github.com/codekoch/emukk/blob/main/MIDI-IN.jpg" width="50%" >MIDI-IN</img>
+Bilder von https://www.instructables.com/Send-and-Receive-MIDI-with-Arduino/
 # MidiSyncomat
 <img src="https://github.com/codekoch/emukk/blob/main/MidiSyncomat1.jpg" width="50%" ></img>
 - Verarbeitet MidiClock Signale in KorgSync- und JamManSync-Signale
