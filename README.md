@@ -31,4 +31,4 @@ Bilder von https://www.instructables.com/Send-and-Receive-MIDI-with-Arduino/
 - Code: https://github.com/codekoch/emukk/blob/main/Midimat2021_Clock.ino
 - Code: https://github.com/codekoch/emukk/blob/main/Midimat2021_Controller.ino
 # Demo
-[![Youtube_Video](https://www.youtube.com/watch?v=bDUJRRL67o4)](https://youtu.be/bDUJRRL67o4)
+[![Youtube_Video](https://img.youtube.com/vi/bDUJRRL67o4/0.jpg)](https://youtu.be/bDUJRRL67o4)
