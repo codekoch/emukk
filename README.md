@@ -16,7 +16,7 @@ Bilder von https://www.instructables.com/Send-and-Receive-MIDI-with-Arduino/
 <img src="https://github.com/codekoch/emukk/blob/main/MidiLooper.jpg" width="50%" ></img>
 - 3 Spur MidiLooper 
 - Code: https://github.com/codekoch/emukk/blob/main/MidiLooper.ino
-- - realisiert mit einem Arduino Due
+- realisiert mit einem Arduino Due
 # MidiAudioSwitch
 <img src="https://github.com/codekoch/emukk/blob/main/MidiAudioSwitch.jpg" width="50%"></img>
 - Schaltet zwischen Midi und Audiosignalen
